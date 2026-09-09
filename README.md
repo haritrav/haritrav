@@ -22,13 +22,13 @@
 | 📍 **Location** | **`Chennai, India`** |
 | 🎓 **Academic Degree** | **`Bachelor of Technology (B.Tech)`** — **`Engineering Undergraduate`** |
 | 💼 **Core Domain** | **`Engineering Student`** & **`Full-Stack Web Developer`** |
-| 💻 **Core Languages** | **`Python`** • **`C++`** • **`JAVA`** • **`JavaScript`** |
-| 🌐 **Frontend Stack** | **`React.js`** • **`Next.js`** • **`Tailwind CSS`** • **`HTML5 / CSS3`** |
+| 💻 **Core Languages** | **`Python`**  • **`JAVA`** • **`JavaScript`** |
+| 🌐 **Frontend Stack** | **`React.js`**  • **`Tailwind CSS`** • **`HTML5 / CSS3`** |
 | ⚙️ **Backend & APIs** | **`Node.js`** • **`Supabase`** • **`REST APIs`** |
-| 🗄️ **Databases** | **`MongoDB`** • **`PostgreSQL`** • **`MySQL`** |
+| 🗄️ **Databases** | **`MongoDB`**  • **`MySQL`** |
 | 🧰 **Tools & Platforms** | **`Antigravity`** • **`GitHub`** • **`Vercel`** • **`VS Code`** • **`Git`** |
-| 🎯 **Current Focus** | **`Eager to learn new technologies & build impactful projects`** |
-| ☕ **Fun Fact** | **`"I turn caffeine and curiosity into clean, functional code ☕🚀"`** |
+| 🎯 **Current Focus** | **`Eager to learn new technologies & implement in real time projects** |
+| ☕ **Fun Fact** | **`" I study electronics, but I'm slowly becoming a software person too! "`** |
 
 </div>
 
