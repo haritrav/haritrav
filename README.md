@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/haritrav">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=24&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=750&height=80&lines=👋+HI+THERE%2C+I'M+HARITRA!;⚡+ENGINEERING+STUDENT+%26+FULL-STACK+DEV;" alt="Neo-Futurism Cyber Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&multiline=true&width=850&height=80&lines=Hey%2C+I'm+Haritra+%F0%9F%91%8B;ECE+Student+%E2%86%92+Software+Developer+%E2%86%92+Future+Tech+Builder;" alt="Neo-Futurism Cyber Typing SVG" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 | ⚙️ **Backend & APIs** | **`Node.js`** • **`Supabase`** • **`REST APIs`** |
 | 🗄️ **Databases** | **`MongoDB`**  • **`MySQL`** |
 | 🧰 **Tools & Platforms** | **`Antigravity`** • **`GitHub`** • **`Vercel`** • **`VS Code`** • **`Git`** |
-| 🎯 **Current Focus** | **`Eager to learn new technologies & implement in real-time projects`**  |
+| 🎯 **Current Focus** | **`Eager to learn new technologies & implement in real-time projects`** |
 | ☕ **Fun Fact** | **`" I study electronics, but I'm slowly becoming a software person too! "`** |
 
 </div>
