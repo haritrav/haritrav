@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/haritrav">
-    <img src="https://raw.githubusercontent.com/haritrav/haritrav/main/assets/vibecoder-workspace.gif" width="100%" alt="⚡ HARITRA ⚡ Neo-Futuristic Vibe Coder Workspace" />
+    <img src="https://raw.githubusercontent.com/haritrav/haritrav/main/assets/vibecoder-workspace.gif" width="600" alt="⚡ HARITRA ⚡ Neo-Futuristic Vibe Coder Workspace" />
   </a>
 </p>
 
