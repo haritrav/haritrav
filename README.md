@@ -27,7 +27,7 @@
 | ⚙️ **Backend & APIs** | **`Node.js`** • **`Supabase`** • **`REST APIs`** |
 | 🗄️ **Databases** | **`MongoDB`**  • **`MySQL`** |
 | 🧰 **Tools & Platforms** | **`Antigravity`** • **`GitHub`** • **`Vercel`** • **`VS Code`** • **`Git`** |
-| 🎯 **Current Focus** | **`" Eager to learn new technologies & implement in real time projects "'** |
+| 🎯 **Current Focus** | **`Eager to learn new technologies & implement in real-time projects`**  |
 | ☕ **Fun Fact** | **`" I study electronics, but I'm slowly becoming a software person too! "`** |
 
 </div>
