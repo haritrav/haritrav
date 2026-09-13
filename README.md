@@ -22,7 +22,7 @@
 | 📍 **Location** | **`Chennai, India`** |
 | 🎓 **Academic Degree** | **`Bachelor of Technology (B.Tech)`** — **`Engineering Undergraduate`** |
 | 💼 **Core Domain** | **`Engineering Student`** & **`Full-Stack Web Developer`** |
-| 💻 **Core Languages** | **`Python`**  • **`JAVA`** • **`JavaScript`** |
+| 💻 **Core Languages** | **`Python`**  • **`JAVA`** • **`JavaScript`** . **`HTML`**|
 | 🌐 **Frontend Stack** | **`React.js`**  • **`Tailwind CSS`** • **`HTML5 / CSS3`** |
 | ⚙️ **Backend & APIs** | **`Node.js`** • **`Supabase`** • **`REST APIs`** |
 | 🗄️ **Databases** | **`MongoDB`**  • **`MySQL`** |
